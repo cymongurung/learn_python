@@ -1,0 +1,11 @@
+print("My name is Suman Gurung.")
+print("I am from pokhara. ")
+print("Currently I am residing in UAE for work.")
+print("My profession is a sales person")
+print("I like to learn programming and coding")
+print("I also do small Graphic designing work")
+print("I am already 14 years in UAE")
+print("evertything is all well")
+print("I wish to learn coding very hard despite my challenging time")
+print("I like to build automation from python which downloads google images \n Thank you")
+#i am writting my details on above
